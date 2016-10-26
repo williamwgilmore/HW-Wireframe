@@ -21,11 +21,15 @@ body {
 /* section, aside */
 .second {
 	float: left;
-	width: 495px;
 	background-color: #ebebeb;
 	margin: 10px;
 	height: 175px;
 	padding: 20px;
+	width: 200px;
+}
+
+section {
+	width: 495px;
 }
 
 article {
