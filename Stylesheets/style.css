@@ -13,8 +13,6 @@ body {
 /* Header, nav, footer */
 .first {
 	background-color:#ebebeb;
-	padding: 20px;
-	margin: 10px;
 	clear: both;
 }
 
@@ -22,17 +20,17 @@ body {
 .second {
 	float: left;
 	background-color: #ebebeb;
-	margin: 10px;
-	height: 175px;
-	padding: 20px;
-	width: 200px;
 }
 
 section {
 	width: 495px;
 }
 
-article {
+aside {
+	width: 50px;
+}
+
+/*article {
 	width: 90%;
 	height: 100px;
 	padding: 10px;
@@ -41,12 +39,12 @@ article {
 	position: relative;
 	top: 15px;
 	left: 10px;
-}
+}*/
 
-h1, h2, h3, p{
+/*h1, h2, h3, p{
 	color:#777;
 	display: inline;
-}
+}*/
 
 div {
 	background-color: #ebebeb;
